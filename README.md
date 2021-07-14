@@ -1,3 +1,3 @@
 # clase-1
 primeros pasos git
-Hola Mundo
+Segundo Commit borrando Hola Mundo
